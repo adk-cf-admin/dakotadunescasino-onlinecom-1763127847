@@ -1,0 +1,19 @@
+{
+  "name": "Dakota Dunes Casino",
+  "short_name": "Dakota Dunes Casino",
+  "theme_color": "",
+  "background_color": "#121922",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1763123095-favicon-wwwdakotadunescasinocom.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

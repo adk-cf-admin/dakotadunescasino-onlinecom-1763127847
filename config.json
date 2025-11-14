@@ -1,0 +1,197 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#121922",
+            "lang-select-color": "#222829",
+            "bg-light": "#3F3D3C",
+            "welcome-bonus-bg": "#fafaf9",
+            "top-games-hover-fg": "#121922",
+            "main-bg": "#FBF6EF",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#121922",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#D2A04B",
+            "yellow": "#EC891D",
+            "yellow-button": "#D2A04B",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#ffffff",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#FAE7D3",
+            "faq-label": "#ffffff",
+            "bg-footer": "#121922",
+            "copyright": "#e7e7d5",
+            "starColor": "#EC891D",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Dakota Dunes Casino",
+            "title": "Dakota Dunes Casino | Slots, Table Games, Shows & Resort in Saskatchewan",
+            "description": "Discover Dakota Dunes Casino \u2014 a premier destination for slots, table games, bars, restaurants, and a luxury resort. Enjoy concerts, events, bonuses, and unforgettable entertainment!\n",
+            "canonical": "dakotadunescasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/539",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "dakotadunescasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/540",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/541"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/544",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Dakota Dunes Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Dakota Dunes Casino \u2014 Gaming, Dining & Entertainment in One Place",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/537",
+            "imageSizeModifier": 15,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/538",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slot machines.",
+                "Blackjack and roulette tables available.",
+                "Electronic games for tech-savvy players.",
+                "High Limit area for big stakes.",
+                "Spacious and modern interior design.",
+                "Reward program with exclusive bonuses.",
+                "Nearby resort hotel and golf course."
+            ],
+            "advantagesAfterText": "Dakota Dunes Casino offers gaming, comfort, and entertainment in one place. It\u2019s perfect for enjoying events, dining, and relaxing at a resort setting.\n",
+            "knowMore": "Know more",
+            "appTitle": "Dakota Dunes Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/546",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Dakota Dunes Casino App",
+            "mobileGooglePlayImageTitle": "Dakota Dunes Casino App",
+            "mobileIosImageTitle": "Dakota Dunes Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Dakota Dunes Casino",
+                "description1": "Dakota Dunes Casino delivers big prizes, generous bonuses, and real winning opportunities for every guest.",
+                "items": [
+                    "Cash draws up to $100,000",
+                    "Bonuses up to $3,000",
+                    "Daily jackpots on slots"
+                ],
+                "description2": "Dakota Dunes Casino is a modern entertainment complex offering comfort and excitement. Guests can enjoy a wide range of slot machines and table games. The casino features spacious halls with contemporary design and amenities. A dedicated area is available for high-stakes players. Visitors can experience live shows, concerts, and themed events. The property includes a restaurant with a diverse menu and a bar. A loyalty program adds extra value to the experience.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/547",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Nearby, a resort hotel and golf course provide complete leisure options. The casino combines gaming, entertainment, and relaxation in one destination. It\u2019s the perfect place for unforgettable moments and new experiences."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Dakota Dunes Casino \u2014 A World of Thrill and Comfort",
+                "description": "<p>\nDakota Dunes Casino is a destination where style and atmosphere create a unique sense of luxury and freedom. Its interior combines modern design with cultural heritage elements, making the space not only elegant but truly distinctive. The vibrant yet cozy ambiance is perfect for relaxation and entertainment.\n\n<\/p>\n<br>\n<p>\nThe casino operates daily, offering flexible hours so guests can visit at their convenience. Spacious gaming halls feature hundreds of slot machines and classic table games, while a dedicated high-limit area adds an extra touch for those who enjoy big wins.\n\n<\/p>\n<br>\n<p>\nOn-site, guests will find stylish bars and a restaurant with a diverse menu, ideal for unwinding after play. For extended stays, a modern hotel and a championship golf course nearby provide a complete resort experience.\n\n<\/p>\n<br>\n<p>\nDakota Dunes Casino is renowned for its events: concerts, live shows, and themed nights make every visit exciting and memorable. There\u2019s always something new, from entertainment programs to special promotions.\n\n<\/p>\n<br>\n<p>\nBonus offers and loyalty programs are a key highlight. Visitors enjoy extra perks, participate in prize draws, and accumulate points, turning every visit into a rewarding adventure.\n\n<\/p>\n<br><h3 style = \"font-weight: bold;font-size: 32px;\">\nConvenience and Service at Dakota Dunes Casino\n<\/h3>\n\n<p>\nAt Dakota Dunes Casino, guest comfort starts with communication. The staff speaks English and is ready to assist visitors with basic phrases, ensuring everyone feels confident and welcome. The atmosphere is friendly and professional, creating a stress-free experience.\n\n<\/p>\n<br>\n<p>\nPayment options are flexible: cash, credit cards, and popular electronic methods are accepted. This gives guests the freedom to choose the most convenient way to pay. For added convenience, ATMs are available on-site, supporting cash withdrawals in multiple currencies.\n\n<\/p>\n<br>\n<p>\nCurrency exchange services are also provided, which is especially helpful for international visitors. Guests can exchange money quickly and securely without leaving the property. All transactions are handled at trusted service points, guaranteeing safety and transparency.\n\n<\/p>\n<br>\n<p>\nThis approach makes Dakota Dunes Casino not just a gaming venue but a complete comfort zone where every detail is designed for ease. It\u2019s a place where visitors can feel at home, no matter where they come from.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisiting Rules at Dakota Dunes Casino\n<\/h3>\n\n<p>\nVisiting Dakota Dunes Casino requires following certain guidelines to ensure comfort and safety for all guests. The dress code is generally casual, but neat and appropriate attire is recommended. Entry is strictly for adults, so guests must carry valid identification.\n\n<\/p>\n<br>\n<p>\nPhotography and video recording in gaming areas are prohibited, as well as bringing weapons, drugs, or any restricted items. Smoking is allowed only in designated areas to maintain a pleasant environment for everyone.\n\n<\/p>\n<br>\n<p>\nConvenient parking is available for visitors, and transportation options include taxis or shuttle services from nearby Saskatoon. The casino\u2019s location makes it easily accessible for both tourists and locals.\n\n<\/p>\n<br>\n<p>\nFollowing these rules helps maintain a high standard of service and security, creating a welcoming atmosphere for entertainment and relaxation.\n\n<\/p>\n<br>\n\n\n\n        <ul>\n            <li>\u2022 \nDress code: neat casual attire.\n\n<\/li>\n            <li>\u2022 \nEntry: adults only with ID.\n\n<\/li>\n            <li>\u2022 \nRestrictions: no photos\/videos, weapons, or drugs.\n\n<\/li>\n            <li>\u2022 \nSmoking: only in designated areas.\n\n<\/li>\n\t    <li>\u2022 \nParking: spacious and free.\n\n<\/li>\n\t    <li>\u2022 \nTransport: taxi or shuttle from Saskatoon.\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPlayers Club Loyalty Program at Dakota Dunes Casino\n<\/h3>\n\n<p>\nDakota Dunes Casino offers its Players Club loyalty program, available to all guests aged 19 and older. Registration is free and takes only a few minutes \u2014 simply present a valid photo ID at the Players Club desk. Once registered, members receive a personalized card valid at all seven SIGA casinos.\n\n<\/p>\n<br>\n<p>\nThe main benefit is earning points every time you play. Slots earn 1 point per $1 wagered, while electronic games earn 1 point per $5 wagered. Points can be redeemed for cashback directly at slot machines, as well as for dining discounts, exclusive promotions, and special prize draws.\n\n<\/p>\n<br>\n<p>\nRewards include 1,000 points = $5 cashback, 10% off dining, free birthday play, and early access to entertainment events. Members also receive notifications about concerts and special offers before anyone else.\n\n<\/p>\n<br>\n<p>\nPlayers Club is more than a bonus system \u2014 it\u2019s a way to make every visit more rewarding and exciting. The more you play, the more benefits you unlock, including free play, prize draws, and VIP perks.\n\n<\/p>\n<br>\n      <h4 style = \"font-weight: bold; font-size: 24px;\">Registration: free, ID required, age 19+\n<\/h4><br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n  \n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Points earning\n<\/h4>\n             <ul>\n            <li>\u2022 \nSlots: 1 point per $1.\n\n<\/li>\n            <li>\u2022 \nElectronic games: 1 point per $5.\n<\/li>\n\n        <\/ul><br>\n     <h4 style = \"font-weight: bold; font-size: 24px;\">Privileges: access to exclusive draws, concert discounts, VIP promotions.\n\n<\/h4>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Rewards\n<\/h4>\n        <ul>\n            <li>\u2022 \n1,000 points = $5 cashback.\n\n<\/li>\n            <li>\u2022 \n10% dining discount.\n\n<\/li>\n            <li>\u2022 \nFree birthday play.\n\n\n\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Valid: at all SIGA casinos.\n\n<\/h4>\n           \n    <\/div>\n<\/div>\n<br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  Dakota Dunes Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at Dakota Dunes Casino\n<\/h3>\n\n<p> \nDakota Dunes Casino offers a wide range of bonuses and promotions that make gaming and entertainment even more exciting. Beyond standard slot and table game winnings, the casino hosts major cash giveaways. For example, the \u201cThe Next Level\u201d promotion awards hundreds of thousands of dollars to lucky winners.\n\n<\/p>\n<br>\n\n<p> \nGuests can also enjoy free spins on slots, participate in themed events, and take advantage of seasonal promotions. Holiday specials include events like \u201cSpooky Spins\u201d on Halloween, where players can win extra spins and bonus play. There are also \u201cProgressive Quick Draws,\u201d random cash draws for active players throughout the day.\n\n<\/p>\n<br>\n<p> \nThe casino enhances the experience with culinary events such as \u201cLobster Feast\u201d and organizes large-scale concerts and shows for New Year\u2019s Eve. These events often come with exclusive offers like free tickets or discounts.\n\n<\/p>\n<br>\n<p> \nAll promotions are designed to make every visit rewarding and memorable. The more you play, the more chances you have to earn bonuses, free spins, and big wins.\n\n<\/p>\n<br>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Major cash draws\n<\/h4>\n            <ul>\n            <li>\u2022 \n\u201cThe Next Level\u201d \u2014 up to $250,000 in prizes.\n\n<\/li>\n            <li>\u2022 \nFinal draw \u2014 $100,000 cash.\n<\/li>\n\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Seasonal promotions\n<\/h4>\n             <ul>\n            <li>\u2022 \n\u201cSpooky Spins\u201d \u2014 up to $313 in free play on Halloween.\n\n<\/li>\n            <li>\u2022 \n\u201cProgressive Quick Draws\u201d \u2014 $760 cash per random winner.\n<\/li>\n\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Food events: \u201cLobster Feast\u201d and holiday dinners.\n\n<\/h4>\n\n        <br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Entertainment: New Year\u2019s Eve parties, themed music shows.\n<\/h4>\n\n        <br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Daily perks: free spins, cashback, new member offers.\n\n<\/h4>\n            \n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Dakota Dunes Casino\n<\/h3>\n\n<p>\nDakota Dunes Casino offers a wide range of games designed for both beginners and seasoned players. The gaming floor features over 620 slot machines, including classic reels, video slots, and progressive jackpots. Among the most popular progressives are Smoke Signals and Rider Nation, giving players the chance to win big.\n\n<\/p>\n<br>\n\n<p>\nTable game enthusiasts will enjoy a variety of options, from standard blackjack to exciting variations like Bonus Spin and Free Bet Blackjack. Poker fans can join Texas Hold\u2019em and Omaha tables, while electronic tables provide roulette and baccarat in a digital format.\n\n<\/p>\n<br>\n\n<p>\nFor high-stakes players, the High Limit Room delivers an exclusive experience with elevated betting limits and personalized service. Minimum bets are higher, and maximum bets can reach impressive amounts, making the thrill even greater.\n\n<\/p>\n<br>\n\n<p>\nDakota Dunes Casino also hosts regular poker tournaments and special slot promotions, including bonus spins and prize draws. It\u2019s a destination where excitement meets comfort and big wins are always possible.\n\n<\/p>\n<br>\n\n        <ul>\n            <li>\u2022 \nSlots: over 620 machines, including progressives.\n<\/li>\n            <li>\u2022 \nTop jackpots: Smoke Signals, Rider Nation.\n<\/li>\n            <li>\u2022 \nTable games: Blackjack, Bonus Spin Blackjack, Free Bet Blackjack.\n<\/li>\n            <li>\u2022 \nPoker: Texas Hold\u2019em, Omaha, regular tournaments.\n<\/li>\n\t    <li>\u2022 \nElectronic tables: roulette, baccarat.\n<\/li>\n\t    <li>\u2022 \nHigh Limit Room: for high-stakes play.\n<\/li>\n\t    \n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Dakota Dunes Casino\n<\/h3>\n\n<p> \nAt Dakota Dunes Casino, betting limits vary by game type, making it accessible for casual players and high rollers alike. Slot machines start at just $0.01 per spin, with progressive slots allowing a maximum bet of $5 per spin, giving everyone a chance to chase jackpots.\n\n<\/p>\n\n<br>\n<p> \nTable games begin with minimum bets of $5 for standard blackjack tables, while electronic games like roulette start at $2. Baccarat tables offer a minimum bet of $25, and the High Limit Room raises the stakes with maximum bets up to $25,000, perfect for those seeking an exclusive experience.\n\n<\/p>\n\n<br>\n\n<p> \nPoker games such as Texas Hold\u2019em and Omaha feature buy-ins ranging from $50 to $1,000, with blinds between $1 and $5. This flexibility ensures that Dakota Dunes Casino caters to all levels of play, from beginners to seasoned gamblers.\n\n<\/p>\n\n<br>\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#828080; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$2 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$25 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $25,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">High Limit Room<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$25 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$25,000<\/td>\n                <\/tr>\n          <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Buy-in)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$50<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1,000\n<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Dakota Dunes Casino\n<\/h3>\n\n<p>\nDakota Dunes Casino is more than a gaming venue \u2014 it\u2019s a hub for vibrant events and entertainment. The casino hosts regular concerts featuring top performers, themed parties, and spectacular shows that attract visitors from across the province. Music plays a central role, with live country acts, rock performances, and tribute shows to legendary bands. New Year\u2019s celebrations include large-scale concerts and festive programs that create an unforgettable atmosphere.\n<\/p>\n<br>\n\n<p>\nRegular entertainment includes live music in lounge areas, karaoke nights, and special gaming promotions. Weekly prize draws, poker tournaments, and themed evenings ensure every visit feels unique. For nightlife enthusiasts, bars with DJ sets and dance floors provide the perfect way to keep the party going after gaming.\n<\/p>\n<br>\n\n<p>\nSpecial events feature concerts by popular artists, culinary festivals, and exclusive show programs. Guests can purchase tickets in advance online or at the casino\u2019s box office, which operates daily until midnight. All events are designed for adult visitors, ensuring a safe and enjoyable environment.\n<\/p>\n<br>\n\n<p>\nDakota Dunes Casino focuses on offering diverse entertainment options: from relaxing evenings with live music in the restaurant to dynamic parties in nightclubs. It\u2019s a destination where gaming meets culture and leisure, creating the perfect setting for an unforgettable night out.\n<\/p>\n<br>\n\n\n        <ul>\n            <li>\u2022 \nConcerts: live country, rock, and tribute shows.\n<\/li>\n            <li>\u2022 \nThemed parties: holiday programs and festive events.\n<\/li>\n            <li>\u2022 \nLive music: acoustic sets in lounge areas.\n<\/li>\n            <li>\u2022 \nKaraoke nights: for vocal enthusiasts.\n<\/li>\n\t    <li>\u2022 \nGaming promotions: weekly draws and poker tournaments.\n<\/li>\n\t    <li>\u2022 \nNightlife: bars with DJs and dance floors.\n<\/li>\n\t    <li>\u2022 \nFood festivals: tastings and special menus.\n<\/li>\n\t \n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurants, and Leisure at Dakota Dunes Casino\n<\/h3>\n\n<p>\nDakota Dunes Casino offers guests more than gaming \u2014 it provides a complete leisure experience with premium comfort. The property features stylish bars and a restaurant serving a variety of local and international dishes. Bars are known for their signature cocktails and cozy ambiance, perfect for relaxing after an exciting night at the tables.\n<\/p>\n<br>\n<p>\nFor those planning an extended stay, the adjacent Dakota Dunes Resort offers spacious rooms with panoramic views, a spa area, fitness center, and swimming pool. Guests can enjoy both gaming and relaxation without leaving the resort environment.\n\n<\/p>\n<br>\n<p>\nAdditionally, the complex includes a championship-level golf course, ideal for visitors who appreciate outdoor activities. After a night of gaming, spending the day on the greens adds a refreshing balance to the experience.\n\n<\/p>\n<br>\n<p>\nDakota Dunes Casino combines entertainment and comfort seamlessly: play in the casino, unwind at the bar, dine in the restaurant, and end the day in a luxurious hotel room. It\u2019s the perfect destination for those who value variety and top-tier service.\n\n<\/p>\n<br>\n\n        <ul>\n            <li>\u2022 \nDakota Dunes Restaurant: local and international cuisine.\n<\/li>\n            <li>\u2022 \nBars: cocktails, snacks, evening DJ sets.\n<\/li>\n            <li>\u2022 \nDakota Dunes Resort Hotel: rooms, spa, pool, fitness center.\n<\/li>\n            <li>\u2022 \nDakota Dunes Golf Links: 18-hole championship course.\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Can I bring my own food and drinks?",
+                    "answer": "No, outside food and drinks are not allowed. Bars and a restaurant are available on-site.\n"
+                },
+                {
+                    "title": "Is the casino open 24\/7?",
+                    "answer": "No, the casino has fixed operating hours, usually from morning until late night. Check the official website for details.\n"
+                },
+                {
+                    "title": "Can I book a hotel room through the casino?",
+                    "answer": "Yes, you can book rooms at Dakota Dunes Resort via the website or at the registration desk.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/545",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Dakota Dunes Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
